@@ -46,3 +46,8 @@ exe = EXE(
     icon=('brawlmaker.ico'),
     entitlements_file=None,
 )
+pause button
+"shelly" unlock:true
+"spike" unlock:false
+"leon" unlock:false
+"kaze" unlock:true
